@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panzer VI (Tiger I)</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Panzer VI (Tiger I)</h1>
+    </header>
+    <div class="container">
+        <section>
+            <h2>Desenvolvimento e Produção</h2>
+            <p>O Panzer VI, mais conhecido como Tiger I, foi um dos tanques mais icônicos e temidos da Segunda Guerra Mundial. Desenvolvido pela Alemanha nazista e introduzido em 1942, o Tiger I foi projetado para superar os tanques aliados em termos de poder de fogo e blindagem. Aproximadamente 1.350 unidades foram produzidas até o final da guerra.</p>
+        </section>
+        <section>
+            <h2>Especificações Técnicas</h2>
+            <ul>
+                <li><strong>Peso:</strong> Cerca de 57 toneladas</li>
+                <li><strong>Blindagem:</strong> Entre 25 mm a 120 mm</li>
+                <li><strong>Armamento Principal:</strong> Canhão KwK 36 de 88 mm</li>
+                <li><strong>Armamento Secundário:</strong> Duas metralhadoras MG 34 de 7,92 mm</li>
+                <li><strong>Motor:</strong> Maybach HL230 P45 V-12</li>
+                <li><strong>Velocidade Máxima:</strong> 45 km/h em estradas e 20 km/h em terrenos irregulares</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Desempenho no Campo de Batalha</h2>
+            <p>O Tiger I era famoso por sua capacidade de destruir tanques inimigos a distâncias maiores do que qualquer outro tanque da época. Sua presença no campo de batalha frequentemente exigia a mobilização de múltiplos veículos aliados para neutralizar um único Tiger.</p>
+        </section>
+        <section>
+            <h2>Desafios e Limitações</h2>
+            <p>Apesar de sua superioridade técnica, o Tiger I enfrentou vários desafios, incluindo complexidade mecânica, manutenção difícil e consumo elevado de combustível. Além disso, seu peso limitava a mobilidade e a capacidade de cruzar pontes.</p>
+        </section>
+        <section>
+            <h2>Legado</h2>
+            <p>O Tiger I deixou um legado duradouro na história militar, sendo lembrado como um símbolo de poder e engenharia avançada. Exemplares sobreviventes podem ser encontrados em museus, onde continuam a atrair a admiração de entusiastas de história militar.</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 História Militar</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
